@@ -3,13 +3,29 @@ body{
     color: rgb(221, 19, 221);
 }
 h1{
-    text-align: center;
-    color: rebeccapurple ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: darkmagenta;
  }
  h2{
       text-align: center;
-      color: rebeccapurple;
+      color: darkmagenta;
 }
 p{ 
     text-align: center;
+}
+.program{ 
+    background-color: lightblue;
+    color: lightslategray;
+    text-align: center;
+}
+.tankar{
+    text-align: right;
+}
+a{ 
+    text-decoration: none;
+}
+
+.själv{
+    border: 2px dotted red;
 }
